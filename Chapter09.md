@@ -174,8 +174,7 @@ all([row[0] == value for t in zip(matrix_a, matrix_b) for row in zip(*t) for val
 --> True
 ```
 
-++ all(), any() --> and, or과 비슷
-
+++ all(), any() --> and, or과 비슷<br>
 + 전치 행열
 ```
 matrix_a = [[1,2,3],[4,5,6]]
